@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PCSX2GameTranslator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d96da9283280164fe2b8b908849ded322454bef")]
 [assembly: System.Reflection.AssemblyProductAttribute("PCSX2GameTranslator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PCSX2GameTranslator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

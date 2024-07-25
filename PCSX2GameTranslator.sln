@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSX2GameTranslator", "PCSX2GameTranslator\PCSX2GameTranslator.csproj", "{8602B030-C69E-47DA-8B5B-D5C53FC70EEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSX2GameTranslator", "PCSX2GameTranslator\PCSX2GameTranslator.csproj", "{5ED450B7-CF74-4A2D-A8F4-B03C2F2D02D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8602B030-C69E-47DA-8B5B-D5C53FC70EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8602B030-C69E-47DA-8B5B-D5C53FC70EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8602B030-C69E-47DA-8B5B-D5C53FC70EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8602B030-C69E-47DA-8B5B-D5C53FC70EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED450B7-CF74-4A2D-A8F4-B03C2F2D02D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED450B7-CF74-4A2D-A8F4-B03C2F2D02D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED450B7-CF74-4A2D-A8F4-B03C2F2D02D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED450B7-CF74-4A2D-A8F4-B03C2F2D02D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {49B6F8F6-0DF4-4FC4-8063-4823D43C93D7}
+		SolutionGuid = {CB5B8935-3643-491E-9BC3-C80263E89E38}
 	EndGlobalSection
 EndGlobal
